@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning about Human visual perception
+- 🔭 I’m looking forward to Bridging the gap between human perception and computer vision
 <!--
 **Accelerator-601/Accelerator-601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
